@@ -18,9 +18,9 @@ class AdditionOf2matrices
 				a[i][j]=sc.nextInt();
 			}
 		}
-		System.out.println("Enter the size of the rows of 2 matrix :");
+		System.out.println("Enter the size of the rows of matrix 2 :");
 		int p=sc.nextInt();
-		System.out.println("Enter the size of the columns of 2 matrix :");
+		System.out.println("Enter the size of the columns of matrix 2 :");
 		int q=sc.nextInt();
 		int b[][]=new int[p][q];
 		System.out.println("Enter the matrix elements : ");
